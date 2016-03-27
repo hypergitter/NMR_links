@@ -1,5 +1,5 @@
 # NMR_links
 useful links
-NMR Facilities
+##NMR Facilities
 
-Groups
+##Groups
