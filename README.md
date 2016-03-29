@@ -2,6 +2,7 @@
 useful links
 ##NMR Facilities
 + BINGHAMTON University Department of Chemistry     http://nmr.binghamton.edu/
++ Hebrew University of Jerusalem NMRLab           http://chem.ch.huji.ac.il/nmr/index.html
 
 ##Groups
 + http://rams.biop.lsa.umich.edu/
