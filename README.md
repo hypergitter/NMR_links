@@ -4,6 +4,7 @@ useful links
 + BINGHAMTON University Department of Chemistry     http://nmr.binghamton.edu/
 + Hebrew University of Jerusalem NMRLab           http://chem.ch.huji.ac.il/nmr/index.html
 + MIT/Harvard Center for Magnetic Resonance (CMR)     http://web.mit.edu/fbml/index.shtml (Resources里有教程)
++ Einstein Macromolcecular NMR resource               http://www.bioc.aecom.yu.edu/labs/girvlab/nmr/index.html
 
 ##Groups
 + http://rams.biop.lsa.umich.edu/
